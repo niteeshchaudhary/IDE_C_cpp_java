@@ -1,0 +1,10 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "rstademo-3.3.4-SNAPSHOT.jar",
+    "rsyntaxtextarea-3.3.4-SNAPSHOT.jar",
+    "jediterm-core-3.18-SNAPSHOT.jar",
+    "jediterm-pty-3.18-SNAPSHOT.jar",
+    "jediterm-ui-3.18-SNAPSHOT.jar"
+  ]
+}
